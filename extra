@@ -1,0 +1,39 @@
+> https://code.visualstudio.com/download (install)
+> https://github.com (create account)
+> https://github.com/Aakashdeveloper (follow)
+> https://git-scm.com/downloads (install)
+> https://nodejs.org/en/ (install)
+> https://www.linkedin.com (create account)
+> https://stackoverflow.com (create account)
+
+
+///Vscode extensions///
+Spell Checker 
+Tabnine
+vscode-icons
+eslint
+Gitlens
+Githistory
+
+Html
+css
+bootstrap
+javascript
+nodejs
+mongodb
+react
+
+https://raw.githubusercontent.com/Aakashdeveloper/Aakashdeveloper/master/README.md
+
+body
+>All the structure which is visible to the user
+
+Block
+> start from new line
+> consume whole width of screen
+> tags example: p, h1-h6, div, div
+
+Inline
+> Start in same line
+> consume only required space between space
+> a span img
